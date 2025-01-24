@@ -9,7 +9,7 @@ func greet(name string) {
 }
 
 func inc(i int) int {
-	return i + 1
+	return i + 2
 }
 
 // / This is the main method.
