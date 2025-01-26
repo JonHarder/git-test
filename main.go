@@ -15,4 +15,5 @@ func inc(i int) int {
 // / This is the main method.
 func main() {
 	greet("Steve")
+	fmt.Printf("4 incremented is %d\n", inc(3))
 }
